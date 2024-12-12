@@ -30,7 +30,7 @@ This project focuses on an in-depth analysis of e-commerce sales data, aiming to
 - **Advanced DAX Queries**: Implemented advanced DAX queries to create complex calculations and enhance data analysis capabilities.
 
 ## Live Project Link
-[E-Commerce Sales Analysis Project](https://github.com/jeetrk-coder/ecommerce-sales-analysis-project.git)
+[E-Commerce Sales Analysis Project]([https://github.com/jeetrk-coder/ecommerce-sales-analysis-project.git](https://github.com/jeetrk-coder/E-commerce-sales-Analysis.git)
 
 ## 🌟 Highlights
 
